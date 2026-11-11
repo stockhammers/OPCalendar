@@ -1,0 +1,40 @@
+{
+  "month": "November 2026",
+  "sites": [
+    {
+      "name": "Driftwood"
+    },
+    {
+      "name": "Riverbend"
+    },
+    {
+      "name": "Gus"
+    },
+    {
+      "name": "Wildwood"
+    },
+    {
+      "name": "Global"
+    },
+    {
+      "name": "Nsk"
+    },
+    {
+      "name": "Hammink"
+    },
+    {
+      "name": "LS"
+    },
+    {
+      "name": "BV"
+    }
+  ],
+  "installs": [
+    {
+      "id": "mwch8udzekkz",
+      "site": 3,
+      "date": "2026-11-16",
+      "notes": "Rounds construction"
+    }
+  ]
+}
